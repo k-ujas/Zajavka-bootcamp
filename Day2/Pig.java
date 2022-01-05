@@ -2,13 +2,13 @@ package zajavka.Day2;
 
 public class Pig {
 
-    private String leftLegFront = "LLF";
+    public String leftLegFront = "LLF";
 
-    private String rightLegFront = "RLF";
+    public String rightLegFront = "RLF";
 
-    private String leftLegBack = "LLB";
+    public String leftLegBack = "LLB";
 
-    private String rightLegBack = "RLB";
+    public String rightLegBack = "RLB";
 
     public String gimmeVoice() {
         return "Muuu";
