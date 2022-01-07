@@ -1,6 +1,6 @@
 package zajavka.Day4;
 
-public class MainDay4 {
+public class StringExamples {
     public static void main(String[] args) {
         String s1 = "Hello World!";
         String s2 = "Hello World!"; // JVM will check word in String Pool
@@ -10,6 +10,8 @@ public class MainDay4 {
         System.out.println("s1 == s3: " + (s1 == s3)); //check: s1 and s3 are in the same place in memory = true
         System.out.println("s1.equals(s2): " + s1.equals(s2)); //check word(s1) == word(s2) = true
         System.out.println("s1.equals(s3): " + s1.equals(s3)); // check word(s1) == word(s3) = true
+        System.out.println("s1.equals(s3): " + s1.equalsIgnoreCase(s3)); //true
+
 
         System.out.println();
 
