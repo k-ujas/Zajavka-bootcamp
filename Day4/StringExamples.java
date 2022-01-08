@@ -11,6 +11,7 @@ public class StringExamples {
         System.out.println("s1.equals(s2): " + s1.equals(s2)); //check word(s1) == word(s2) = true
         System.out.println("s1.equals(s3): " + s1.equals(s3)); // check word(s1) == word(s3) = true
         System.out.println("s1.equals(s3): " + s1.equalsIgnoreCase(s3)); //true
+        //.trim() ignore spaces before word
 
 
         System.out.println();
