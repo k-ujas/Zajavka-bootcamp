@@ -1,0 +1,4 @@
+Dzień 11 zajavka
+
+Dziś kolejna lekcja, w której wracamy do operatorów, a konkretnie omówimy złożone operatory przypisania,
+a następnie przechodzimy do instrukcji warunkowych.
