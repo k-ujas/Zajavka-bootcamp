@@ -14,7 +14,7 @@ public class IncrementDecrement {
         someMethod(a++); // 1
         someMethod(a); // 2
         someMethod(++b); // 2
-        someMethod(a); // 2
+        someMethod(b); // 2
         someMethod(c--); // 1
         someMethod(c); // 0
         someMethod(--d); // 0
