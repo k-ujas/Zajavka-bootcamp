@@ -2,7 +2,7 @@ package zajavka.day8;
 
 public class DoWhileExamples {
     public static void main(String[] args) {
-        // petla do while wykonuje sie zawsze chociaz jeden raz
+        // petla do while wykonuje się zawsze chociaż jeden raz
         int a = 1;
         do {
             System.out.println("a = " + a);
