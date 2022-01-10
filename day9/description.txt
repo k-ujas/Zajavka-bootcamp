@@ -1,0 +1,3 @@
+Dzień 13 zajavka
+
+Wejdziemy w temat tablic, ale wcześniej kończymy temat pętli
