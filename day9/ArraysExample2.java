@@ -2,8 +2,8 @@ package zajavka.day9;
 
 public class ArraysExample2 {
     public static void main(String[] args) {
-        ArraysExample2 arraysExamplee = new ArraysExample2();
-        arraysExamplee.arraysExample2();
+        ArraysExample2 arraysExamples = new ArraysExample2();
+        arraysExamples.arraysExample2();
 
     }
 
