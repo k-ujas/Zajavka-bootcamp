@@ -6,4 +6,5 @@ public class Shortcuts {
     // ctrl + shift (up, down) - change line position (up, down)
     // ctrl + y - delete line
     // double click shift = find files
+    // ctrl + alt + m = create method
 }
