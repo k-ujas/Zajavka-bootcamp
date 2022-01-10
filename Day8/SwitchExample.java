@@ -1,4 +1,4 @@
-package zajavka.Day8;
+package zajavka.day8;
 
 import java.util.Scanner;
 

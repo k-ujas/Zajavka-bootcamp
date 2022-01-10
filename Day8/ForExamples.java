@@ -1,4 +1,4 @@
-package zajavka.Day8;
+package zajavka.day8;
 
 public class ForExamples {
     public static void main(String[] args) {

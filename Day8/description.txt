@@ -1,2 +1,4 @@
+Dzień 12 zajavka
+
 Po if... else przychodzi czas na kolejne instrukcję switch
 goto w Javie a potem juz przechodzimy do pętli - while, do... while oraz for.
