@@ -7,4 +7,5 @@ public class Shortcuts {
     // ctrl + y - delete line
     // double click shift = find files
     // ctrl + alt + m = create method
+    // git commit -a -m "Rename"
 }
