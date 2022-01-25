@@ -1,0 +1,3 @@
+Dzień 17 zajavka
+
+Pojęcia: overloading, this, equals i hashCode
