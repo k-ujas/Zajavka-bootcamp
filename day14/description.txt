@@ -1,0 +1,3 @@
+Dzień 18 zajavka
+
+Referencje, autoboxing, dziedziczenie, toString
