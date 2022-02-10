@@ -1,0 +1,3 @@
+Dzień 20 zajavka
+
+Overriding, bloki inicjalizacyjne
