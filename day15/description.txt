@@ -1,0 +1,3 @@
+Dzień 19 zajavka
+
+Modyfikatory dostępu i konstruktory
