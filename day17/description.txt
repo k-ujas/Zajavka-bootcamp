@@ -1,3 +1,3 @@
-Dzień 20 zajavka
+Dzień 21 zajavka
 
-Overriding, bloki inicjalizacyjne
+Gettery i settery, kolejność elementów, klasy abstrakcyjne
