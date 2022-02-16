@@ -1,0 +1,3 @@
+Dzień 22 zajavka
+
+Interfejsy - polimorfizm - default methods
